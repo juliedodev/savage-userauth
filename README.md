@@ -1,5 +1,4 @@
 This is a full stack application with authentication where the user can write messages on a message board. Others can also like and dislike messages.
-Link to Project: [https://juliedodev-savageauth.netlify.app/]
 
 <img src="savageauth.png">
 
